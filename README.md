@@ -1,12 +1,12 @@
-# Title of your Project
-*Describe the purpose of this project* 
-
 > **Important:** This is a template repository to help you set up your team project.  
 >  
 > You are free to modify it based on your needs. For example, if your data is downloaded using *multiple* scripts instead of a single one (as shown in `\data\`), structure the code accordingly. The same applies to all other starter files—adapt or remove them as needed.  
 >  
 > Feel free to delete this text.
 
+
+# Title of your Project
+*Describe the purpose of this project* 
 
 ## Motivation
 
