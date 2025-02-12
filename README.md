@@ -1,18 +1,18 @@
-> **Important:** This is a template repository to help you set up your team project.  
->  
-> You are free to modify it based on your needs. For example, if your data is downloaded using *multiple* scripts instead of a single one (as shown in `\data\`), structure the code accordingly. The same applies to all other starter files—adapt or remove them as needed.  
->  
-> Feel free to delete this text.
 
 
-# Title of your Project
+# The effectiveness of Just-Below Pricing
 *Describe the purpose of this project* 
 
-## Motivation
+## Research Motivation
 
-*Provide background/motivation for your project*
+$2.99 for a chocolate bar, $19.99 for a sweater, $1199.99 for a smartphone, and even $29,999.99 for a car – prices set just below a round number are widely present around the globe (Tripathi & Pandey, 2018). A recent pilot study, including over 12.000 prices from web pages in the United States and Germany concluded that these prices make up almost 65% of prices on the internet (Troll et al., 2024), highlighting the popularity of this strategy. One explanation for the popularity is that just-below prices lead to an underestimation effect, where prices ending in $.99 (e.g., $14.99) are perceived as substantially lower than their round counterparts, positively affecting demand (Chang & Chen, 2014). As a result, one might argue that it is beneficial for price-setters to price their products and services just below the round number. 
 
-**Mention your research question**
+However, results regarding the effectiveness of just-below pricing are mixed. Where studies conclude that just-below pricing has a positive effect on consumers' purchase decisions (Choi et al., 2014; Schindler & Kibarian, 2001), others report no or even a negative effect (Georgoff, 1972, Kim, Malkoc & Goodman, 2021; Tripathi & Pandey, 2018). As a result, for this project, we investigated the effectiveness of just-below pricing on consumers' purchase decisions by analyzing a large Amazon dataset from the UK consisting of more than 2 million products. In addition, it was tested whether this effect differed based on the price level of the product. By investigating the moderating effect of price level, possible reasons for the conflicting findings might be found, which adds to the existing knowledge regarding just-below pricing.
+
+These insights are of vital interest to price-setters who are contemplating the use of just-below pricing to drive demand. Specifically, the article provides answers to when and why the use of just-below pricing might (not) be preferred in a given context, providing price-setters with the needed information on how to price their goods.
+
+## Research Question
+**To what extent does just below pricing (as opposed to round pricing) affect consumers' purchase behavior and to what extent does this effect depend on the price level of the product?**
 
 ## Data
 
